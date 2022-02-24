@@ -1788,11 +1788,12 @@
                   data-widget_type="image.default"
                 >
                   <div class="elementor-widget-container">
-                    <img
+                    <!-- <img
                       src="https://cdn.statically.io/img/www.masukkedokteran.com/f=auto/wp-content/uploads/2021/02/Image-MK-202113043-1920x1080-1.png"
                       title="Image MK 202113043 1920&#215;1080"
                       alt="Image MK 202113043 1920x1080"
-                    />
+                    /> -->
+                    <img src="mus.jpg"/>
                   </div>
                 </div>
                 <div
@@ -2631,7 +2632,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                               <a
-                                href="https://wa.me/6281393591515"
+                                href="https://wa.me/6281914772431"
                                 class="elementor-button-link elementor-button elementor-size-lg"
                                 role="button"
                               >

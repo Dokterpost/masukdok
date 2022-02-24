@@ -268,12 +268,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <input type="text" class="input-text " name="billing_first_name" id="billing_first_name" placeholder=""  value="" autocomplete="given-name" />
             </span></p>
             <p class="form-row form-row-wide wcf-column-100 form-row-full validate-required validate-email" id="billing_email_field" data-priority="20">
-                <label for="billing_email" class="">Alamat Email&nbsp;<abbr class="required" title="required">*</abbr></label>
+                <label for="billing_email" class="">Alamat&nbsp;<abbr class="required" title="required">*</abbr></label>
                 <span class="woocommerce-input-wrapper">
                     <input type="email" class="input-text " name="billing_email" id="billing_email" placeholder=""  value="" autocomplete="email username" /></span>
                 </p>
                 <p class="form-row form-row-wide wcf-column-100 form-row-full validate-required validate-email" id="billing_email_field" data-priority="20">
                 <label for="billing_email" class="">Nomor Whatsapp&nbsp;<abbr class="required" title="required">*</abbr></label>
+                <span class="woocommerce-input-wrapper">
+                    <input type="email" class="input-text " name="billing_email" id="billing_email" placeholder=""  value="" autocomplete="email username" /></span>
+                </p>
+                <p class="form-row form-row-wide wcf-column-100 form-row-full validate-required validate-email" id="billing_email_field" data-priority="20">
+                <label for="billing_email" class="">Email&nbsp;<abbr class="required" title="required">*</abbr></label>
                 <span class="woocommerce-input-wrapper">
                     <input type="email" class="input-text " name="billing_email" id="billing_email" placeholder=""  value="" autocomplete="email username" /></span>
                 </p>
