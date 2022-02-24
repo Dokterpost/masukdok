@@ -1,5 +1,6 @@
 <?php
 
+$server = "174.138.29.9";
 $user = "uhzahqfmdx";
 $password = "Ngj6WtTnwA";
 $nama_database = "uhzahqfmdx";
