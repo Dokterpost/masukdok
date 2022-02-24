@@ -757,18 +757,20 @@
       href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSriracha%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.1"
       media="all"
     />
-    <link
+    <!-- <link
       rel="stylesheet"
       id="elementor-icons-shared-0-css"
       href="https://www.masukkedokteran.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3"
       media="all"
-    />
-    <link
+    /> -->
+    <link rel="stylesheet" href="fontawesome.min.css"/>
+    <!-- <link
       rel="stylesheet"
       id="elementor-icons-fa-regular-css"
       href="https://www.masukkedokteran.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3"
       media="all"
-    />
+    /> -->
+    <link rel="stylesheet" href="regular.min.css"/>
     <link
       rel="stylesheet"
       id="elementor-icons-fa-solid-css"
@@ -2652,7 +2654,7 @@
                             <div class="eael-creative-button-wrapper">
                               <a
                                 class="eael-creative-button eael-creative-button--default"
-                                href="https://www.masukkedokteran.com/checkout-lp9928/"
+                                href="checkout.php"
                                 data-text="Go!"
                               >
                                 <div class="creative-button-inner">
