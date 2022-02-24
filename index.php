@@ -1202,6 +1202,17 @@
   <body
     class="home page-template page-template-elementor_canvas page page-id-166 wp-embed-responsive theme-twentytwentyone woocommerce-no-js is-light-theme no-js singular elementor-default elementor-template-canvas elementor-kit-19 elementor-page elementor-page-166"
   >
+  <?php if(isset($_GET['status'])): ?>
+    <p>
+        <?php
+            if($_GET['status'] == 'sukses'){
+                echo "berhasil!";
+            } else {
+                echo "gagal!";
+            }
+        ?>
+    </p>
+<?php endif; ?>
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 0 0"
