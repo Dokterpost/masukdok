@@ -38,7 +38,7 @@
       }
     </script>
     <!-- This site is optimized with the Yoast SEO Premium plugin v15.8.1 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Home - MasukKedokteran.com</title>
+    <title>Home</title>
     <meta
       name="robots"
       content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
@@ -1199,10 +1199,8 @@
       content="width=device-width, initial-scale=1.0, viewport-fit=cover"
     />
   </head>
-  <body
-    class="home page-template page-template-elementor_canvas page page-id-166 wp-embed-responsive theme-twentytwentyone woocommerce-no-js is-light-theme no-js singular elementor-default elementor-template-canvas elementor-kit-19 elementor-page elementor-page-166"
-  >
-  
+  <body class="home page-template page-template-elementor_canvas page page-id-166 wp-embed-responsive theme-twentytwentyone woocommerce-no-js is-light-theme no-js singular elementor-default elementor-template-canvas elementor-kit-19 elementor-page elementor-page-166">
+
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 0 0"
