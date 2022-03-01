@@ -268,7 +268,7 @@
         </nav>
         <div class="collapse navbar-collapse me-md-0 me-sm-4 mt-sm-0 mt-2" id="navbar">
           <div class="ms-md-auto pe-md-3 d-flex align-items-center">
-            <a class="btn bg-gradient-dark mb-0" href="">Home</a>
+            <a class="btn bg-gradient-dark mb-0" href="http://docvestor.id/">Home</a>
           </div>
         </div>
         <!-- <div class="collapse navbar-collapse me-md-0 me-sm-4 mt-sm-0 mt-2" id="navbar">
