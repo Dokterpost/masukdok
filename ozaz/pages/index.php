@@ -465,7 +465,7 @@
                   </thead>
                   <tbody>
                       <?php 
-                      include ('C:\laragon\www\msk\koneksion.php');
+                      include ('koneksion.php');
                       $no = 1;
                       $data = mysqli_query($db,"select * from user");
                       while($d = mysqli_fetch_array($data)){
