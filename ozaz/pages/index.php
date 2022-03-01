@@ -154,7 +154,7 @@
           <h6 class="ps-4 ms-2 text-uppercase text-xs font-weight-bolder opacity-6">Pages</h6>
         </li>
         <li class="nav-item">
-          <a class="nav-link  active" href="..">
+          <a class="nav-link  active" href="../pages/">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 46 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>customer-support</title>
@@ -171,7 +171,7 @@
                 </g>
               </svg>
             </div>
-            <span class="nav-link-text ms-1">Profile</span>
+            <span class="nav-link-text ms-1">Orders</span>
           </a>
         </li>
         <!-- <li class="nav-item">
@@ -465,7 +465,7 @@
                   </thead>
                   <tbody>
                       <?php 
-                      include 'koneksion.php';
+                      include 'koneksi.php';
                       $no = 1;
                       $data = mysqli_query($db,"select * from user");
                       while($d = mysqli_fetch_array($data)){
