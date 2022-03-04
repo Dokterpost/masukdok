@@ -1591,11 +1591,15 @@
                             <ul class="elementor-icon-list-items">
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
-                                </span>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      1    
+                                      </strong>
+                                    </span>
+                                  </span>
                                 <span class="elementor-icon-list-text"
                                   >Merasa tenang karena peluang karirnya jelas,
                                   masa depan anak sudah pasti terjamin</span
@@ -1603,10 +1607,14 @@
                               </li>
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      2    
+                                      </strong>
+                                    </span>
                                 </span>
                                 <span class="elementor-icon-list-text"
                                   >Sejak dulu ingin sekali punya anak yang jadi
@@ -1615,10 +1623,14 @@
                               </li>
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      3    
+                                      </strong>
+                                    </span>
                                 </span>
                                 <span class="elementor-icon-list-text"
                                   >Bisa buka praktik sendiri, tidak harus
@@ -1627,10 +1639,14 @@
                               </li>
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      4    
+                                      </strong>
+                                    </span>
                                 </span>
                                 <span class="elementor-icon-list-text"
                                   >Profesi yang mulia, bisa membantu dan
@@ -1639,10 +1655,14 @@
                               </li>
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      5    
+                                      </strong>
+                                    </span>
                                 </span>
                                 <span class="elementor-icon-list-text"
                                   >Dengan jadi dokter, kehidupan anak di masa
@@ -1651,10 +1671,14 @@
                               </li>
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
-                                  <i
-                                    aria-hidden="true"
-                                    class="far fa-check-circle"
-                                  ></i>
+                                  <span class="fa-stack">
+                                    <!-- The icon that will wrap the number -->
+                                      <span class="fal fa-circle fa-stack-2x"></span>
+                                      <!-- a strong element with the custom content, in this case a number -->
+                                      <strong class="fa-stack-1x">
+                                      6    
+                                      </strong>
+                                    </span>
                                 </span>
                                 <span class="elementor-icon-list-text"
                                   >Keluarga saya profesinya dokter semua, anak
