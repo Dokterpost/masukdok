@@ -2269,7 +2269,7 @@
                       karena itu, ini adalah waktu yang tepat untuk
                       mempersiapkannya. Cari tahu<strong
                         ><span style="color: #ff0000">
-                          TIPS, CARA, dan STRATEGI ANAK ANDA 99.9% MASUK
+                          TIPS, CARA, dan STRATEGI ANAK ANDA 99% MASUK
                           KEDOKTERAN PTN/ PTS FAVORIT</span
                         ></strong
                       >
@@ -2634,7 +2634,7 @@
                             <h2
                               class="elementor-heading-title elementor-size-default"
                             >
-                              Seminar online<br />26 Februari 2022
+                              Seminar online<br />18 Maret 2022
                             </h2>
                           </div>
                         </div>
@@ -2648,7 +2648,7 @@
                             <h2
                               class="elementor-heading-title elementor-size-default"
                             >
-                              TIPS, CARA, dan STRATEGI ANAK ANDA 99,9% MASUK
+                              TIPS, CARA, dan STRATEGI ANAK ANDA 99% MASUK
                               KEDOKTERAN PTN/PTS FAVORIT
                             </h2>
                           </div>
