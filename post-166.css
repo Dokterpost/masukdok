@@ -898,6 +898,9 @@ body:not(.rtl)
   background-repeat: no-repeat;
   background-size: 98% auto;
 }
+#a {
+  border-radius: 20px;
+}
 .elementor-166 .elementor-element.elementor-element-28854b8d {
   text-align: left;
   color: #000000;

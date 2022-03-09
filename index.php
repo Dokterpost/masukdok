@@ -1823,7 +1823,7 @@
                       title="Image MK 202113043 1920&#215;1080"
                       alt="Image MK 202113043 1920x1080"
                     /> -->
-                    <img src="mus.jpg"/>
+                    <img id="a" src="mus.jpg"/>
                   </div>
                 </div>
                 <div
@@ -2757,7 +2757,7 @@
                 >
                   <div class="elementor-widget-container">
                     <h5 class="elementor-heading-title elementor-size-default">
-                      Copyright 2022 Masukkedokteran.com, All Rights Reserved
+                      Copyright 2022 dokterprep.com, All Rights Reserved
                     </h5>
                   </div>
                 </div>
@@ -2804,14 +2804,14 @@
         }
       }
     </script>
-    <noscript
+    <!-- <noscript
       ><img
         height="1"
         width="1"
         style="display: none"
         src="https://www.facebook.com/tr?id=702411037095017&ev=PageView&noscript=1&eid=f1002fc4-b5c2-4e44-839c-38ddc6a5d985&cd%5Bpage_title%5D=Home&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=166&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.masukkedokteran.com%2F&cd%5Buser_role%5D=guest"
         alt="facebook_pixel"
-    /></noscript>
+    /></noscript> -->
     <script type="text/javascript">
       (function () {
         var c = document.body.className;
