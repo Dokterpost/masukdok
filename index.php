@@ -1688,7 +1688,6 @@
                             </ul>
                           </div>
                         </div>
-                      </div>
                         <div class="elementor-element elementor-element-4ded41a elementor-widget elementor-widget-heading" data-id="4ded41a" data-element_type="widget" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
                               <h2 class="elementor-heading-title elementor-size-default">
@@ -1696,6 +1695,7 @@
                               </h2>
                             </div>
                           </div>
+                      </div>
                     </div>
                   </div>
                 </section>
